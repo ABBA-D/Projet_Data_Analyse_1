@@ -1,0 +1,11 @@
+Date,Produit,Quantité,Prix_Unitaire,Montant_Total
+2024-01-01,Produit_A,10,100,1000
+2024-01-08,Produit_B,15,200,3000
+2024-01-15,Produit_C,7,150,1050
+2024-01-22,Produit_A,12,100,1200
+2024-01-29,Produit_B,18,200,3600
+2024-02-05,Produit_C,5,150,750
+2024-02-12,Produit_A,14,100,1400
+2024-02-19,Produit_B,10,200,2000
+2024-02-26,Produit_C,8,150,1200
+2024-03-04,Produit_A,20,100,2000
