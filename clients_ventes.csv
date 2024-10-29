@@ -1,0 +1,6 @@
+Client_ID,Nom,Age,Achat,Ville
+1,Alice,25.0,150.0,Paris
+2,Bob,,200.0,Lyon
+3,,30.0,300.0,Marseille
+4,David,22.0,,Lille
+5,Eve,29.0,500.0,
