@@ -1,0 +1,11 @@
+Client_ID,Montant_Vente,Frequence_Achat,Categorie_Client,Date
+1,150,5,Standard,2024-01-31
+2,200,6,Premium,2024-02-29
+3,450,7,Standard,2024-03-31
+4,300,8,VIP,2024-04-30
+5,250,5,Standard,2024-05-31
+6,800,9,VIP,2024-06-30
+7,700,10,Premium,2024-07-31
+8,300,8,VIP,2024-08-31
+9,400,7,Standard,2024-09-30
+10,500,6,Premium,2024-10-31
