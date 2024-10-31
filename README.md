@@ -20,3 +20,5 @@ Les résultats incluent :
 
 - Des insights sur les comportements clients et des tendances de vente.
 - Des modèles de prévision pour améliorer la planification des stocks et les campagnes marketing.
+
+Créé par Abba Dahirou
