@@ -13,11 +13,6 @@ Ce projet vise à analyser les données de vente et les comportements clients po
 - **Python** : Jupyter Notebooks pour l’analyse et la modélisation.
 - **Bibliothèques** : pandas, matplotlib, scikit-learn, seaborn.
 - **Fichiers de Données** : CSV contenant les informations sur les ventes et les clients.
-
-## Instructions
-1. Clonez le repository :
-   ```bash
-   git clone https://github.com/ABBA-D/Projet_Data_Analyse_1.git
    
 Résultats
 Les résultats incluent :
