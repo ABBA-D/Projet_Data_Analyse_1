@@ -15,6 +15,7 @@ Ce projet vise à analyser les données de vente et les comportements clients po
 - **Fichiers de Données** : CSV contenant les informations sur les ventes et les clients.
    
 Résultats
+
 Les résultats incluent :
 
 - Des insights sur les comportements clients et des tendances de vente.
